@@ -1,54 +1,31 @@
-# Hi, I'm Ayhan
+# Ayhan Gurbangeldiyev
 
-📍 Istanbul, Turkiye | 🤖 AI Engineer at Turkish Airlines Technology | 🎓 AI Engineering student at Bahcesehir University
+AI Engineer at **Turkish Airlines Technology** · AI Engineering, Bahçeşehir University · Istanbul
 
-Building practical AI systems, MLOps pipelines, and agentic workflows.
+I specialize in agentic systems and production LLM pipelines — building multi-agent architectures, RAG-based retrieval, and MLOps infrastructure that runs in real environments.
 
-Python · MLflow · Apache Airflow · Azure ML · Docker · FastAPI · SQL · GitHub Actions · Agentic AI · MLOps
+---
 
-## Start Here
+## Projects
 
-🚀 [ain-3009-mlflow-predictive-maintenance](https://github.com/ayhan-gurbangeldiyev/ain-3009-mlflow-predictive-maintenance) - end-to-end predictive maintenance with MLflow, Airflow, and Azure ML  
-🤖 Agentic AI - experiments with AI-assisted engineering, automation, and workflow design  
-🛫 Aviation Technology - software, data, and AI work shaped by airline operations  
-📚 AI Engineering - turning coursework, research, and prototypes into working systems
+**[ClinicalBridge](https://github.com/ayhan-gurbangeldiyev/clinicalbridge-capstone)**  
+Multi-agent LLM system for clinical decision support. Four specialized agents coordinate asynchronously — triage, EHR retrieval via RAG, anamnesis interpretation, and synthesis — producing source-cited clinical briefs from remote patient monitoring alerts. Includes a prompt iteration portfolio (v1→v3 per agent) and an automated evaluation harness across 5 clinical scenarios.  
+`LangChain` `GPT-4o` `ChromaDB` `RAG` `Pydantic v2` `LangFuse` `Azure OpenAI`
 
-## Current Projects
+**[Predictive Maintenance MLOps](https://github.com/ayhan-gurbangeldiyev/ain-3009-mlflow-predictive-maintenance)**  
+End-to-end MLOps pipeline for equipment failure prediction — experiment tracking, pipeline orchestration, and cloud model deployment.  
+`MLflow` `Apache Airflow` `Azure ML` `Docker` `Python`
 
-### MLOps & Predictive Maintenance
+---
 
-🚀 [Predictive Maintenance MLOps](https://github.com/ayhan-gurbangeldiyev/ain-3009-mlflow-predictive-maintenance) - MLflow tracking, Airflow orchestration, Azure ML registration, and deployment workflow  
-🧪 Model experiments - repeatable training, tuning, evaluation, and monitoring  
-📈 Production ML patterns - pipelines that can be inspected, rerun, and improved
+## Stack
 
-### Agentic AI & Automation
+**Agentic AI & LLMs** — LangChain · LangGraph · OpenAI · Azure OpenAI · ChromaDB · Pydantic v2 · LangFuse  
+**MLOps** — MLflow · Apache Airflow · Azure ML · Docker · GitHub Actions  
+**Backend & Data** — Python · FastAPI · SQL
 
-🤖 Agentic engineering - using AI agents to speed up research, coding, testing, and iteration  
-🧰 Automation tools - scripts and workflows that remove repetitive manual work  
-🔎 Research loops - exploring ideas quickly, then shaping them into usable systems
+---
 
-### Backend, Data & Cloud
+*"Build the real thing, then make it cleaner."*
 
-⚙️ Python services - APIs, scripts, and backend utilities  
-🐳 Docker environments - reproducible project setup and execution  
-☁️ Azure workflows - cloud-based ML development and deployment practice  
-🗃️ Data systems - SQL, ETL, analytics, and pipeline design
-
-## GitHub Activity
-
-I am building my public portfolio around practical AI engineering projects, with a focus on clean documentation, reproducible workflows, and deployable results.
-
-## What I'm Doing
-
-Learning by shipping - building projects that move from idea to running system  
-Working on MLOps - tracking, orchestration, deployment, and monitoring  
-Exploring agentic AI - AI as a collaborator in engineering workflows  
-Connecting aviation and AI - applying intelligent systems to operational problems
-
-## Connect
-
-[GitHub](https://github.com/ayhan-gurbangeldiyev) · [Email](mailto:ayhan.gurbangeldiyev@bahcesehir.edu.tr)
-
-## Philosophy
-
-"Build the real thing, then make it cleaner." I like projects that are practical, explainable, and easy for someone else to run.
+[Email](mailto:ayhan.gurbangeldiyev@bahcesehir.edu.tr)
