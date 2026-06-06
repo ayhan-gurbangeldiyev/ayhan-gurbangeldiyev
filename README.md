@@ -18,11 +18,7 @@ Production MLOps pipeline for equipment failure prediction — experiment tracki
 
 ---
 
-## Stack
-
-**Agentic AI & LLMs** — LangChain · LangGraph · OpenAI · Azure OpenAI · ChromaDB · Pydantic v2 · LangFuse  
-**MLOps** — MLflow · Apache Airflow · Azure ML · Docker · GitHub Actions  
-**Backend & Data** — Python · FastAPI · SQL
+Python · LangChain · LangGraph · LangFuse · MLflow · Docker · Azure
 
 ---
 
