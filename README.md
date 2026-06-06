@@ -23,5 +23,3 @@ Python · LangChain · LangGraph · LangFuse · MLflow · Docker · Azure
 ---
 
 *"Build the real thing, then make it cleaner."*
-
-[Email](mailto:ayhan.gurbangeldiyev@bahcesehir.edu.tr)
